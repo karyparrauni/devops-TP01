@@ -1,0 +1,22 @@
+===============================
+  REPORTE DE SALUD — 2026-05-08_02-19-05
+===============================
+
+--- CPU ---
+Uso CPU: 5,0%
+
+--- MEMORIA ---
+Total: 1,9Gi | Usado: 1,6Gi | Libre: 71Mi
+
+--- DISCO ---
+Total: 49G | Usado: 23G | Libre: 23G | Uso: 51%
+
+--- PROCESOS TOP 5 (por CPU) ---
+ps                   CPU: 300%
+/usr/lib/firefox/firefox-bin CPU: 4.1%
+bash                 CPU: 4.1%
+/usr/lib/firefox/firefox CPU: 2.2%
+[kworker/1:2H-kblockd] CPU: 1.8%
+
+--- UPTIME ---
+ 02:19:06 up 11:06,  1 user,  load average: 0,90, 1,08, 0,85

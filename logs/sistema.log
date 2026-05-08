@@ -1,0 +1,26 @@
+[2026-05-08 02:19:05] ============================================
+[2026-05-08 02:19:05] Iniciando script de automatización del sistema
+[2026-05-08 02:19:05] Directorio base: /home/karina/Escritorio/Operaciones1/devops-TP01
+[2026-05-08 02:19:05] ============================================
+[2026-05-08 02:19:05] === TAREA 1: Iniciando backup ===
+[2026-05-08 02:19:05] Backup completado en: /home/karina/Escritorio/Operaciones1/devops-TP01/backups/backup_2026-05-08_02-19-05 (0 archivos)
+[2026-05-08 02:19:05] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-08 02:19:05] Limpieza completa. Archivos eliminados: 0
+[2026-05-08 02:19:05] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-08 02:19:06] Reporte guardado en: /home/karina/Escritorio/Operaciones1/devops-TP01/logs/reporte_2026-05-08_02-19-05.txt
+[2026-05-08 02:19:06] ============================================
+[2026-05-08 02:19:06] Todas las tareas completadas exitosamente
+[2026-05-08 02:19:06] ============================================
+[2026-05-08 02:23:46] ============================================
+[2026-05-08 02:23:46] Iniciando script de automatización del sistema
+[2026-05-08 02:23:46] Directorio base: /home/karina/Escritorio/Operaciones1/devops-TP01
+[2026-05-08 02:23:46] ============================================
+[2026-05-08 02:23:46] === TAREA 1: Iniciando backup ===
+[2026-05-08 02:23:46] Backup completado en: /home/karina/Escritorio/Operaciones1/devops-TP01/backups/backup_2026-05-08_02-23-46 (0 archivos)
+[2026-05-08 02:23:46] === TAREA 2: Limpieza de archivos mayores a 7 días ===
+[2026-05-08 02:23:46] Limpieza completa. Archivos eliminados: 0
+[2026-05-08 02:23:46] === TAREA 3: Reporte de salud del sistema ===
+[2026-05-08 02:23:46] Reporte guardado en: /home/karina/Escritorio/Operaciones1/devops-TP01/logs/reporte_2026-05-08_02-23-46.txt
+[2026-05-08 02:23:46] ============================================
+[2026-05-08 02:23:46] Todas las tareas completadas exitosamente
+[2026-05-08 02:23:46] ============================================
