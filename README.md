@@ -1,3 +1,4 @@
+HEAD
 # TP01 - Operaciones1 — Automatización con Bash
 
 Script que automatiza 3 tareas de administración de sistemas Linux.
@@ -43,3 +44,6 @@ devops-TP01/
 └── README.md
 
 ---
+# devops-TP01
+TP Operaciones 1
+bd6f369e55d8fb878966476c485a6fa3ec71e598
