@@ -1,4 +1,3 @@
-HEAD
 # TP01 - Operaciones1 — Automatización con Bash
 
 Script que automatiza 3 tareas de administración de sistemas Linux.
@@ -12,8 +11,6 @@ Script que automatiza 3 tareas de administración de sistemas Linux.
 3. **Reporte de salud** — genera informe de CPU, memoria y disco
 
 ## Uso
-
- 
 
 Ejecutar en bash
 
@@ -44,6 +41,3 @@ devops-TP01/
 └── README.md
 
 ---
-# devops-TP01
-TP Operaciones 1
-bd6f369e55d8fb878966476c485a6fa3ec71e598
